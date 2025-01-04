@@ -1,6 +1,7 @@
 #!/bin/bash
 
 Movies=("devara" "pushpa" "rrr")
+#index starts from 0
 
 echo "the first movie is: ${Movies[0]}"
 echo "the second movie is: ${Movies[1]}"
