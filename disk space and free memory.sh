@@ -1,3 +1,3 @@
 #!/bin/bash
-diskspace=du -sh
+diskspace="df -h"
 echo "display the disk space is:$diskspace"
